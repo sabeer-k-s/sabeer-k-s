@@ -3,14 +3,10 @@
 # Hey👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1200&pause=150&color=FF4302&width=1000&height=50&lines=+I'm+Sabeer!;An+AI+Developer+Passionate+About+AI%2C;+ML%2C+and+Data+Science." alt="Typing SVG" /></a>
-
-
-
-<img src="https://github.com/sabeer-k-s/sabeer-k-s/blob/main/github-readme.mp4" width="45%" align="right" />
+<img src="https://github.com/sabeer-k-s/sabeer-k-s/blob/main/github-readme%20(1).gif" width="45%" align="right" />
 
 
 ## ⚡🙋‍♂️ About Me
-
 - 🌱 Currently exploring Generative AI and Large Language Models
 - <p>
   😄<i> I'm passionate about building intelligent systems and integrating advanced AI solutions to solve real-world problems. I specialize in computer vision, NLP, and generative AI. I thrive on continuous learning and seek opportunities to contribute to innovative projects that make a difference.</i>
