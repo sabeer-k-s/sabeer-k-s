@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=70&section=header"/>
 
-# Hey👋
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1200&pause=150&color=FF4302&width=1000&height=50&lines=+I'm+Sabeer!;An+AI+Developer+Passionate+About+AI%2C;+ML%2C+and+Data+Science." alt="Typing SVG" /></a>
 <img src="https://github.com/sabeer-k-s/sabeer-k-s/blob/main/github-readme%20(1).gif" width="45%" align="right" />
 
@@ -33,10 +33,20 @@
 
 ### Currently Learning:
 - Generative AI Applications
-- Advanced GPT Model Fine-tuning
 
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabeer-k-s&bg_color=971111&color=ffffff&line=ff9e9e&point=00fffb&area=true&hide_border=true" border-radius="15">
+</div>
+
+
+<!--Dynamic Quote card updated everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SabeerAI/SabeerAI/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=971111&author_color=00fffb">
 </p>
 
 <div align="center">
