@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=70&section=header"/>
 
 # Hey👋
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1200&pause=150&color=FF4302&width=1000&height=50&lines=+I'm+Sabeer!;An+AI+Developer+Passionate+About+AI%2C;+ML%2C+and+Data+Science." alt="Typing SVG" /></a>
