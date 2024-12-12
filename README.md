@@ -25,14 +25,14 @@
 <a href="https://www.linkedin.com/in/sabeer-k-s/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-### Main Skills:
-- AI Development
-- Computer Vision (YOLOv8, Object Detection)
-- Natural Language Processing (NLP)
-- Python & Machine Learning
+<h2 align="center">🛠️ Main Skills 🛠️</h2>
+ AI Development |
+ Computer Vision (YOLOv8, Object Detection) |
+ Natural Language Processing (NLP) |
+ Python & Machine Learning |
 
-### Currently Learning:
-- Generative AI Applications
+<h2 align="center">🎯 Currently Learning 🎯</h2>
+<p align="center"> Generative AI Applications</p>
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
