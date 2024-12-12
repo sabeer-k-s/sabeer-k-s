@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
 # Hey👋
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1200&pause=150&color=FF4302&width=1000&height=50&lines=+I'm+Sabeer!;An+AI+Developer+Passionate+About+AI%2C;+ML%2C+and+Data+Science." alt="Typing SVG" /></a>
 <img src="https://github.com/sabeer-k-s/sabeer-k-s/blob/main/github-readme%20(1).gif" width="45%" align="right" />
 
@@ -14,9 +13,6 @@
 
 <hr>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SabeerAI&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 <div>
 <div align="center">  
   <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=sabeer-k-s&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Sabeer's GitHub Stats" /> 
@@ -49,7 +45,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{sabeer-k-s}/count.svg" /></p> 
 <br>
 </div>
-
-------
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
