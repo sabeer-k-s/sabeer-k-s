@@ -2,25 +2,16 @@
 **AI Engineer | GenAI • Agentic AI • LLM Systems**
 
 
-## ⚡🙋‍♂️ About Me
-- 🌱 Currently exploring Generative AI and Large Language Models
-- <p>
-  😄<i> I'm passionate about building intelligent systems and integrating advanced AI solutions to solve real-world problems. I specialize in computer vision, NLP, and generative AI. I thrive on continuous learning and seek opportunities to contribute to innovative projects that make a difference.</i>
-</p>
+## 👨‍💻 About Me
 
-<hr>
+AI Engineer with 2+ years of experience building **production-grade AI systems** across
+GenAI, Agentic AI, Computer Vision, and NLP.
 
-<div>
-<div align="center">  
-  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=sabeer-k-s&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Sabeer's GitHub Stats" /> 
-  <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabeer-k-s&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
-</div>
-<div>
+- Built **Agentic AI systems** using LangGraph & Gemini API
+- Developed **AI credit management platforms** with payment integration (Razorpay)
+- Designed **LLM-powered evaluation, assessment, and RAG systems**
+- Strong backend experience with FastAPI, MongoDB, and scalable APIs
 
-<div align="center"> 
-<a href="mailto:newsabeer181@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/sabeer-k-s/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
 
 <h2 align="center">🛠️ Main Skills 🛠️</h2>
  AI Development |
