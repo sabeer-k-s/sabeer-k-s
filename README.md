@@ -13,11 +13,14 @@ GenAI, Agentic AI, Computer Vision, and NLP.
 - Strong backend experience with FastAPI, MongoDB, and scalable APIs
 
 
-<h2 align="center">🛠️ Main Skills 🛠️</h2>
- AI Development |
- Computer Vision (YOLOv8, Object Detection) |
- Natural Language Processing (NLP) |
- Python & Machine Learning |
+## 🛠️ Tech Stack
+
+**Languages:** Python  
+**GenAI & LLMs:** LangGraph, LangChain, Gemini API, RAG  
+**Backend:** FastAPI, Flask, MongoDB  
+**Computer Vision:** YOLOv8, Tesseract OCR  
+**Infra & Tools:** Docker, GitHub Actions, Cron Jobs
+
 
 <h2 align="center">🎯 Currently Learning 🎯</h2>
 <p align="center"> Generative AI Applications</p>
