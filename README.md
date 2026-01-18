@@ -22,29 +22,27 @@ GenAI, Agentic AI, Computer Vision, and NLP.
 **Infra & Tools:** Docker, GitHub Actions, Cron Jobs
 
 
-<h2 align="center">🎯 Currently Learning 🎯</h2>
-<p align="center"> Generative AI Applications</p>
+## 🚀 Featured Projects
 
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabeer-k-s&bg_color=971111&color=ffffff&line=ff9e9e&point=00fffb&area=true&hide_border=true" border-radius="15">
-</div>
+### 🧠 Certificate Evaluation AI Agent
+Agentic, chat-based AI system that dynamically evaluates certificates using LLM reasoning.
+- LangGraph-based agent orchestration
+- Gemini API integration
+- Stateful multi-step evaluation
+- Python-based backend
+
+### 🏦 AI Credit Management Platform
+Production AI credit system for multi-platform usage.
+- Razorpay payment → credit allocation
+- Token-based AI usage tracking
+- Bulk & individual credit management
+- FastAPI + MongoDB backend
+
+### 🦺 IndustryGuard – AI Workplace Safety System
+Real-time PPE & person detection system.
+- Custom-trained YOLOv8 models
+- Multi-person inference
+- Industrial safety monitoring
 
 
-<!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=971111&author_color=00fffb">
-</p>
-
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{sabeer-k-s}/count.svg" /></p> 
-<br>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#A9A9A9&height=120&section=footer"/>
