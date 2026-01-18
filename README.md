@@ -1,8 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=70&section=header"/>
-
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1200&pause=150&color=FF4302&width=1000&height=50&lines=+I'm+Sabeer!;An+AI+Developer+Passionate+About+AI%2C;+ML%2C+and+Data+Science." alt="Typing SVG" /></a>
-<img src="https://github.com/sabeer-k-s/sabeer-k-s/blob/main/github-readme%20(1).gif" width="45%" align="right" />
+# Sabeer K S  
+**AI Engineer | GenAI • Agentic AI • LLM Systems**
 
 
 ## ⚡🙋‍♂️ About Me
